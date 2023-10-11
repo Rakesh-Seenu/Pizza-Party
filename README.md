@@ -1,6 +1,6 @@
 # Pizza-Party
 
-<img src="https://github.com/Rakesh-Seenu/Pizza-Party/blob/main/pizza.jpeg" width=50% height=50%>
+<img src="https://github.com/Rakesh-Seenu/Pizza-Party/blob/main/pizza.jpg" width=50% height=50%>
 
 ##Note: Ingredients MUST be added in the following order
 
