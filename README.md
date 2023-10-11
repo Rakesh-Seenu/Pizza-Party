@@ -1,5 +1,5 @@
 # Pizza-Party
-<img src="https://github.com/Rakesh-Seenu/Pizza-Party/blob/main/IMAGES/pizza.jpg" width=50% height=50%>
+<img src="https://github.com/Rakesh-Seenu/Pizza-Party/blob/main/pizza.jpg" width=50% height=50%>
 ##Note: Ingredients MUST be added in the following order
 
 1. Tomatoe sauce 2. Goat Cheese
